@@ -1,6 +1,5 @@
 # Data files (large files should not be committed)
 data/raw/*.csv
-data/raw/*.db
 data/processed/*.csv
 
 # Python
